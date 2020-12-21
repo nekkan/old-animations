@@ -1,6 +1,6 @@
 <img src="assets/logo.png" align="right" height=128 width=128/>
 
-# Old Animations
+# Old Animations ![downloads]
 
 Old Animations is a free and open-source mod targeting the client-side of Minecraft to port animations from legacy
 versions to newer ones.
@@ -103,3 +103,5 @@ file.
 [parry]: https://github.com/FoundationGames/Parry
 
 [semantic_versioning]: https://semver.org
+
+[downloads]: https://cf.way2muchnoise.eu/full_427599_downloads.svg
