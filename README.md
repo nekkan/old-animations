@@ -4,6 +4,8 @@
 Old Animations is a free and open-source mod targeting the client-side of Minecraft to port animations from legacy
 versions to newer ones.
 
+**MOVED TO `nekkan/old-animations`**
+
 # Table of contents
 
 * [Animations](#animations)
